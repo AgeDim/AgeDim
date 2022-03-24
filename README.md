@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
 <img align="left" alt="Spring" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgeDim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [tg]: https://t.me/AgeDim123
