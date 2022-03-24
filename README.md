@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="AgeevDmitriy | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][tg]
+[<img align="left" alt="AgeevDmitriy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AgeevDmitriy | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <br />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AgeDim&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AgeDim&theme=dark&background=000000)](https://git.io/streak-stats)
 <br />
 
 [tg]: https://t.me/AgeDim123
