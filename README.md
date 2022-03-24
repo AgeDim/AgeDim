@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/AgeDim)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AgeDim&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br />
 
 [tg]: https://t.me/AgeDim123
