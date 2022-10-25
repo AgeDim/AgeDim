@@ -35,10 +35,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Top Langs:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgeDim&hide=css,Jupyter Notebook&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgeDim&hide=css&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgeDim&hide=css,jupyter%20notebook&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [tg]: https://t.me/AgeDim123
 [instagram]: https://www.instagram.com/huge_silence27/
