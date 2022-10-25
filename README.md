@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgeDim&hide=css,jupyter%20notebook,html&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[tg]: https://t.me/AgeDim123
+[tg]: https://t.me/AmeHakaga
 [instagram]: https://www.instagram.com/huge_silence27/
 [vk]: https://vk.com/agedim
