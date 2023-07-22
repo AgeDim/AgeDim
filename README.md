@@ -24,13 +24,11 @@ Here are some ideas to get you started:
 <img align="left" alt="HTML5" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Js" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="PhP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />
-<img align="left" alt="Python" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="Spring" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
-<img align="left" alt="Spring" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="С" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
-<img align="left" alt="С++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Dart" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" />
+<img align="left" alt="Flutter" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" />
+<img align="left" alt="React" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
+
 
 <br />
 
