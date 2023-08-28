@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ✌️ Welcome to my page!
 👦 My name is Dmitriy Ageev
 🎓 ITMO university student
-🔭 I’m currently working on Java.
+🔭 I’m currently working on Flutter.
 
 ### Connect with me:
 
